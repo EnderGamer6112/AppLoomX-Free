@@ -18,7 +18,7 @@
 
 ## 📸 Ekran Görüntüsü
 
-> 🖼️ `assets/AppLoomX.png`*
+> 🖼️ [AppLoomX Görüntü](assets/AppLoomX.png)*
 
 ---
 
