@@ -18,7 +18,7 @@
 
 ## 📸 Ekran Görüntüsü
 
-> 🖼️ [AppLoomX Görüntü](https://raw.githubusercontent.com/EnderGamer6112/AppLoomX-Free/refs/heads/main/AppLoomX.png)*
+> 🖼️ `AppLoomX.png`*
 
 ---
 
