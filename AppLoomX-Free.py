@@ -3,7 +3,6 @@ from tkinter import messagebox, ttk
 import subprocess
 import pyautogui
 import time
-from tkinter import messagebox, ttk
 import subprocess
 import pyautogui
 import webbrowser
