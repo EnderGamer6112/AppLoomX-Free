@@ -3,8 +3,6 @@ from tkinter import messagebox, ttk
 import subprocess
 import pyautogui
 import time
-import subprocess
-import pyautogui
 import webbrowser
 
 webbrowser.open("https://discord.gg/qA7trgxdVD")
