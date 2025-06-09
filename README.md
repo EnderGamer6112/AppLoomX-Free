@@ -13,7 +13,8 @@
 ✅ Türkçe dil desteği  
 ✅ Sade Tkinter arayüz  
 ✅ Winget ile otomatik kurulum
-✅ Masaüstü kısayolu oluşturma  
+✅ Masaüstü kısayolu oluşturma
+
 ---
 
 ## 📸 Ekran Görüntüsü
