@@ -2,15 +2,11 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 import subprocess
 import pyautogui
-import requests
 import time
 import tkinter as tk
 from tkinter import messagebox, ttk
 import subprocess
 import pyautogui
-import requests
-import base64
-import json
 import webbrowser
 
 webbrowser.open("https://discord.gg/qA7trgxdVD")
