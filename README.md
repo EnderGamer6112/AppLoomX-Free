@@ -18,7 +18,7 @@
 
 ## 📸 Ekran Görüntüsü
 
-> 🖼️ `AppLoomX.png`*
+> 🖼️ ![AppLoomX Görüntü](AppLoomX.png)*
 
 ---
 
