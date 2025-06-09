@@ -25,7 +25,7 @@
 
 ## 🛠️ Kurulum
 Releases kısmından kurabilir, python kodunu yapıştırabilir, kapalı kaynak ve gelişmiş sürümü [Discord sunucumuz](https://discord.gg/qA7trgxdVD) dan alabilir veya alttaki kodları kullanarak yapabilirsiniz!
-__Not__:**Releases kısmındaki kod Nuitka ile derlenmiştir. Hız için yapılmıştır.
+__Not__:**Releases kısmındaki kod Nuitka ile derlenmiştir. Hız için yapılmıştır.**
 
 ```bash
 git clone https://github.com/EnderGamer6112/AppLoomX-Free.git
