@@ -4,7 +4,7 @@
 🖱️ Sadece birkaç tıklamayla yüzlerce uygulamayı hızlıca kurabilir, bilgisayarını baştan yaratabilirsin!
  
 
-> 🧒 Geliştirici: **Yiğit (13 yaşında)**
+> 🧒 Geliştirici: **Yiğit**
 
 ---
 
